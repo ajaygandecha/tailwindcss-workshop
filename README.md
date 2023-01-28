@@ -20,12 +20,19 @@ Later on in the workshop, students might be introduced to setting up TailwindCSS
 
 ## Proposed Structure
 
-*Coming soon!*
+- Review HTML and CSS (purpose of each)
+- Show short example showing the link between HTML and CSS
+- Explain the shortcomings of CSS
+- Introduce TailwindCSS and how it works
+- Open up Repl.it for live demo
+- Create small groups of 3 and give them a fun, guided exercise
+- Regroup
+- Show how to install Tailwind in VS Code + VS Code extension
 
 ## To-Do Checklist
 
-- [x] Write the plan for the workshop
-- [ ] Decide on workshop structure and demo medium for the framework
+- [x] Write the plan for the workshop, decide workshop structure
+- [ ] Decide on demo medium for the framework
 - [ ] Create Repl.it container with sample files
 - [ ] Work on write-up (README.md)
 - [ ] Clean up write-up and prepare in-person workshop plan
