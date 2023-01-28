@@ -28,6 +28,8 @@ Later on in the workshop, students might be introduced to setting up TailwindCSS
 - Create small groups of 3 and give them a fun, guided exercise
 - Regroup
 - Show how to install Tailwind in VS Code + VS Code extension
+- Explain the importance of good UI/UX Design
+- Closing statements
 
 ## To-Do Checklist
 
