@@ -14,4 +14,21 @@ Ultimately, this workshop aims to expose TailwindCSS to UNC Computer Science stu
 
 Students with **basic knowledge of HTML and CSS** would be able to attend this workshop without any difficulty, including students currently enrolled in *COMP 110: Introduction to Programming and Data Science* or higher.
 
+As suggested by Professor Jordan, students will likely use a pre-configured **Repl.it** environment to get started with TailwindCSS and for following along with the workshop. Repl.it will abstract away the setup process from the students, removing a source of friction and frustration with setting up the workshop.
+
+Later on in the workshop, students might be introduced to setting up TailwindCSS in their own projects using VSCode and enabling the VSCode extension.
+
 ## Proposed Structure
+
+*Coming soon!*
+
+## To-Do Checklist
+
+- [x] Write the plan for the workshop
+- [ ] Decide on workshop structure and demo medium for the framework
+- [ ] Create Repl.it container with sample files
+- [ ] Work on write-up (README.md)
+- [ ] Clean up write-up and prepare in-person workshop plan
+- [ ] Practice and refine in-person workshop plan
+- [ ] Deliver workshop live in the CSXL
+
