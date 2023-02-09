@@ -25,7 +25,9 @@ Later on in the workshop, students might be introduced to setting up TailwindCSS
 - Explain the shortcomings of CSS
 - Introduce TailwindCSS and how it works
 - Open up Repl.it for live demo
+  - Walkthrough of styling the CSXL checkin page live -- show styled version and non-styled version
 - Create small groups of 3 and give them a fun, guided exercise
+  - Guided exercise will be to style a sample CSXL workshops listing page
 - Regroup
 - Show how to install Tailwind in VS Code + VS Code extension
 - Explain the importance of good UI/UX Design
@@ -34,8 +36,8 @@ Later on in the workshop, students might be introduced to setting up TailwindCSS
 ## To-Do Checklist
 
 - [x] Write the plan for the workshop, decide workshop structure
-- [ ] Decide on demo medium for the framework
-- [ ] Create Repl.it container with sample files
+- [x] Decide on demo medium for the framework
+- [ ] Create Repl.it container with sample files [[ IN PROGRESS ]]
 - [ ] Work on write-up (README.md)
 - [ ] Clean up write-up and prepare in-person workshop plan
 - [ ] Practice and refine in-person workshop plan
