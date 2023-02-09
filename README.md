@@ -26,6 +26,7 @@ Later on in the workshop, students might be introduced to setting up TailwindCSS
 - Introduce TailwindCSS and how it works
 - Open up Repl.it for live demo
   - Walkthrough of styling the CSXL checkin page live -- show styled version and non-styled version
+  - This demo will just be on an HTML page - there will be no JavaScript / TypeScript involved here, as this is not necessarily relevant to the workshop.
 - Create small groups of 3 and give them a fun, guided exercise
   - Guided exercise will be to style a sample CSXL workshops listing page
 - Regroup
