@@ -38,8 +38,8 @@ Later on in the workshop, students might be introduced to setting up TailwindCSS
 
 - [x] Write the plan for the workshop, decide workshop structure
 - [x] Decide on demo medium for the framework
-- [ ] Create Repl.it container with sample files [[ IN PROGRESS ]]
-- [ ] Work on write-up (README.md)
+- [x] Create sample files
+- [ ] Work on write-up (README.md) [[ IN PROGRESS ]]
 - [ ] Clean up write-up and prepare in-person workshop plan
 - [ ] Practice and refine in-person workshop plan
 - [ ] Deliver workshop live in the CSXL
