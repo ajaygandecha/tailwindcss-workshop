@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html class="font-[Arial]">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>  
+    
+    <style type="text/tailwindcss">
+        @layer utilities {
+          .navigation-button {
+            width: 180px;
+            margin-top: 32px;
+            padding-top: 28px;
+            padding-bottom: 28px;
+            text-align: center;
+            color: white;
+            border-radius: 16px;
+            cursor: pointer;
+          }
+        }
+    </style>
+</head>
+
+
+<body class="bg-[#f1f5f9] text-[#4a4a4a] dark:bg-[#1e293b] dark:text-white">
+    <div class="flex flex-col justify-center items-center w-full mt-8">
+
+        <picture>
+            <source srcset="./assets/xl-dark.png" media="(prefers-color-scheme: dark)" alt="Dark Mode Image">
+            <img src="./assets/xl-light.png" class="w-[200px] ml-auto mr-auto" alt="Light Mode Image">
+        </picture>
+
+        <!-- Header -->
+        <h1 class="text-2xl mt-8 font-bold text-center">
+            CHECK IN PORTAL
+        </h1>
+        
+        <!-- Navigation Buttons -->
+        <a class="navigation-button bg-[#e661f7]">
+            <strong>CHECK IN</strong>
+        </a>
+
+        <a class="navigation-button bg-[#8218f5]">
+            <strong>REGISTER</strong>
+        </a>
+
+        <a class="navigation-button bg-[#2457f2]">
+            <strong>STATS</strong>
+        </a>
+    </div>
+</body>
+</html>
