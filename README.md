@@ -8,8 +8,6 @@ TailwindCSS is one of the most popular CSS frameworks, and is used by [many comp
 
 Ultimately, this workshop aims to expose TailwindCSS to UNC Computer Science students, introduce them to CSS utility frameworks and how using such frameworks might enhance their web development skills and workflow, showcase practical usecases for using CSS utility frameworks over vanilla CSS, highlight the importance of UI/UX design for web applications, and ultimately inspire them to use such frameworks to enhance the style and UI/UX of their own web development projects in the future.
 
-*The TailwindCSS workshop is being developed by Ajay Gandecha as part of **COMP 495: Mentored Research** at UNC-Chapel Hill with Professor Kris Jordan. This workshop aims to be part of a larger collection of learning experiences and workshops compiled by the **UNC Computer Science Experience Lab (CSXL)**, which aspires to inform, teach, and potentially further enrich the UNC Computer Science undergraduate student community. We will use these learning experiences to research effective and engaging teaching strategies to each concepts in computer science.*
-
 ## Prerequisites and Tools
 
 Students with **basic knowledge of HTML and CSS** would be able to attend this workshop without any difficulty, including students currently enrolled in *COMP 110: Introduction to Programming and Data Science* or higher.
@@ -18,7 +16,7 @@ As suggested by Professor Jordan, students will likely use a pre-configured **Re
 
 Later on in the workshop, students might be introduced to setting up TailwindCSS in their own projects using VSCode and enabling the VSCode extension.
 
-## Proposed Structure
+## Structure
 
 - Review HTML and CSS (purpose of each)
 - Show short example showing the link between HTML and CSS
