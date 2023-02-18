@@ -38,7 +38,7 @@ So, you ask - *why isn't there a better way?*
 
 What if you could apply styles to elements ***directly within** your HTML files?* What if you could avoid having dozens of extra CSS files that span hundreds of lines?
 
-Well, now you can with **TailwindCSS*.
+Well, now you can with **TailwindCSS**.
 
 TailwindCSS is a utility CSS framework that allows developers to rapidly and efficiently design modern, rich, and responsive websites - without ever having to enter an external CSS file. You are able to use Tailwind's style classes to apply styles to elements from within their `class` parameters.
 
