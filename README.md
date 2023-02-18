@@ -72,3 +72,10 @@ You will have the chance to show off your amazing designs to everyone once you a
 
 ## Part 4: Closing Thoughts
 
+Congratulations on learning the basics of TailwindCSS! TailwindCSS is a powerful CSS framework and will hopefully dramatically improve your relationship with CSS and make you consider alternative ways for styling your web development projects.
+
+TailwindCSS is compatible with many popular front-end frameworks. The way we installed TailwindCSS for this workshop was meant to be as simple as possible. In reality, you would want to install it into a `node` project using `npm`. If you wish to use TailwindCSS in future projects, I highly recommend following the official setup instructions [here](https://tailwindcss.com/docs/installation).
+
+Front-end design is **super important**, as important as back-end design. Without a good design, users will simply not want to use your website or service. As computer science students, we must put as much importance into **front-end design** as we do into *back-end design*. Your users will thank you for it!
+
+If you have any questions regarding the contents of this workshop, feel free to create an Issue on the *Issue* tab of this GitHub repository, and I will get back to you as soon as I can!
