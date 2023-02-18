@@ -72,20 +72,3 @@ You will have the chance to show off your amazing designs to everyone once you a
 
 ## Part 4: Closing Thoughts
 
-
-
-## Structure
-
-- Review HTML and CSS (purpose of each)
-- Show short example showing the link between HTML and CSS
-- Explain the shortcomings of CSS
-- Introduce TailwindCSS and how it works
-- Open up Repl.it for live demo
-  - Walkthrough of styling the CSXL checkin page live -- show styled version and non-styled version
-  - This demo will just be on an HTML page - there will be no JavaScript / TypeScript involved here, as this is not necessarily relevant to the workshop.
-- Create small groups of 3 and give them a fun, guided exercise
-  - Guided exercise will be to style a sample CSXL workshops listing page
-- Regroup
-- Show how to install Tailwind in VS Code + VS Code extension
-- Explain the importance of good UI/UX Design
-- Closing statements
