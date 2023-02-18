@@ -48,6 +48,8 @@ You are probably thinking, "this must be *too good* to be true - what about the 
 
 [Adam Wathan](https://github.com/adamwathan), the creater of the TailwindCSS framework, wrote an [extremely good article](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) showcasing the benefits of TailwindCSS's "funtional CSS" approach, and raises key counterarguments against the currently established "best practices" of semantic CSS. I **highly** recommend reading this article if you have the chance. It really helps to explain the intentional design behind TailwindCSS, and the context for which TailwindCSS has been designed around.
 
+Now that you understand the intention of TailwindCSS, let's dive in and begin coding in VSCode.
+
 ## Part 2: Live Demo
 
 ## Part 3: Try It Yourself
