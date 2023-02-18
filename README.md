@@ -52,7 +52,21 @@ Now that you understand the intention of TailwindCSS, let's dive in and begin co
 
 ## Part 2: Live Demo
 
+Together, we are going to implement the design of the landing page for **CSXL's new Check-In system!**
+
+Navigate to the workshop files and open `checkin-template.html` *in your browser of choice*. This is the base HTML for our check-in page. No style has been applied yet!
+
+Now, navigate to `checkin-completed.html` and open the file *in your browser of choice*. This is our goal -- we will create this together!
+
+Switch back to the `checkin-template.html` file and open this in VS Code. Try to follow along live with the workshop, and we will style this page together! If you are not attending the workshop live, take a look at `checkin-completed.html` and explore the TailwindCSS classes used here.
+
 ## Part 3: Try It Yourself
+
+Now that we have completed our check-in page, it is time for **you all** to to be the first to design CSXL's workshops page!
+
+You will assemble into **teams of 3**. Using your completed check-in page as a guide, work together in your team to add styling to the workshops page. Feel free to ask any questions as you have them! 
+
+You will have the chance to show off your amazing designs to everyone once you are done!
 
 ## Part 4: Closing Thoughts
 
