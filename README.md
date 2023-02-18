@@ -20,9 +20,33 @@ Ultimately, this workshop aims to expose TailwindCSS to UNC Computer Science stu
 
     From here, a box should appear to type in the URL of the repository. Copy [this link](https://github.com/ajaygandecha/tailwindcss-workshop) into the box and press enter. From here, all of the code in this repository should now show up on your computer!
     
-Congratulations! Now that you have completed the setup, it is time to dive into TailwindCSS.
+**Congratulations!** Now that you have completed the setup, it is time to dive into TailwindCSS.
 
 ## Part 1: Why TailwindCSS?
+
+Before we get started, it is good to refresh our memory on how websites and front-end design actually work.
+
+All of the websites on the internet are made up of files of two fundamental types - **HTML** (`.html`) and **CSS** (`.css`) files.
+
+**HTML** is a markup language used to define the **structure** and **content** of a webpage, while **CSS** adds **style** to a webpage.
+
+Us developers, especially computer science students, often take website styling for granted. It is often left as an afterthought -- something ***extremely** tedius*, where you would be forced to implement the designs of extremely nitpicky designers. You probably begrudgingly wonder, while slaving over `.css` files, *why do I have to do this? Why is this so painful?*
+
+See, the convention you have learned up to this point, and the convention you typically use, is that HTML and CSS remain *decoupled* - *separate* from each other. You have to constantly have to switch between files, create random element classes and IDs in your HTML files, and then connect them back to actual styles in your CSS files. When switching pages too, you lose your sense of location and structure - which nested elements are actually being styled? I am adding a margin next to *what element*? *What is even happening?* CSS even drives some people to tell themselves that they actually *hate* web development - that front-end development is not for them.
+
+So, you ask - *why isn't there a better way?*
+
+What if you could apply styles to elements ***directly within** your HTML files?* What if you could avoid having dozens of extra CSS files that span hundreds of lines?
+
+Well, now you can with **TailwindCSS*.
+
+TailwindCSS is a utility CSS framework that allows developers to rapidly and efficiently design modern, rich, and responsive websites - without ever having to enter an external CSS file. You are able to use Tailwind's style classes to apply styles to elements from within their `class` parameters.
+
+TailwindCSS also integrates seamlessly with other popular and industry-pervasive web frameworks, such as React, Vue, Angular, Next.js, Vite, and more.
+
+You are probably thinking, "this must be *too good* to be true - what about the so-called *best practices*?"
+
+[Adam Wathan](https://github.com/adamwathan), the creater of the TailwindCSS framework, wrote an [extremely good article](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) showcasing the benefits of TailwindCSS's "funtional CSS" approach, and raises key counterarguments against the currently established "best practices" of semantic CSS. I **highly** recommend reading this article if you have the chance. It really helps to explain the intentional design behind TailwindCSS, and the context for which TailwindCSS has been designed around.
 
 ## Part 2: Live Demo
 
