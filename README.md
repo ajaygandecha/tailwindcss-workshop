@@ -10,9 +10,17 @@ Ultimately, this workshop aims to expose TailwindCSS to UNC Computer Science stu
 
 ## Part 0: Setup
 
-- Install Visual Studio Code
-- Install TailwindCSS extension
-- Clone repository
+1. In order to get started with this workshop, you must have **Visual Studio Code** *(VS Code for short)* IDE installed. If you do not already have VS Code installed, install it [here](https://code.visualstudio.com).
+
+2. Once you have VS Code installed, you want to install the **Tailwind CSS IntelliSense** VS Code extension. This extension will enable VS Code's IntelliSense to provide autocomplete and syntax highlighting for TailwindCSS classes. You can find the extension on the Visual Studio Marketplace [here](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss). 
+
+    By pressing the green `Install` button, VS Code should open automatically and begin installing the extension. If not, you can install this extension maually within VS Code. Open VS Code and press on the `Extensions` tab on the far left of the window (icon resembling a grid of square puzzle pieces), search for *"Tailwind CSS IntelliSense"*, and install the first option.
+    
+3. Now that your IDE is installed and set up, the last step is to **clone this repository**. On the *Welcome* tab of VS Code under the *Start* menu, press the `Clone Git Repository...` option.
+
+    From here, a box should appear to type in the URL of the repository. Copy [this link](https://github.com/ajaygandecha/tailwindcss-workshop) into the box and press enter. From here, all of the code in this repository should now show up on your computer!
+    
+Congratulations! Now that you have completed the setup, it is time to dive into TailwindCSS.
 
 ## Part 1: Why TailwindCSS?
 
