@@ -79,3 +79,13 @@ TailwindCSS is compatible with many popular front-end frameworks. The way we ins
 Front-end design is **super important**, as important as back-end design. Without a good design, users will simply not want to use your website or service. As computer science students, we must put as much importance into **front-end design** as we do into *back-end design*. Your users will thank you for it!
 
 If you have any questions regarding the contents of this workshop, feel free to create an Issue on the *Issue* tab of this GitHub repository, and I will get back to you as soon as I can!
+
+--------
+
+#### Final Notes and Attributions
+
+*This workshop was developed by Ajay Gandecha as part of COMP 495: Mentored Research at UNC-Chapel Hill with Professor Kris Jordan. This workshop aims to be part of a larger collection of learning experiences and workshops compiled by the UNC Computer Science Experience Lab (CSXL), which aspires to inform, teach, and potentially further enrich the UNC Computer Science undergraduate student community. We will use these learning experiences to research effective and engaging teaching strategies to each concepts in computer science.*
+
+*Feel free to fork this repository and experiment with the various files.*
+
+*Thank you to the UNC Computer Science Department for providing the resources and space to host this and other CSXL workshops!*
