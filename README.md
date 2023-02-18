@@ -1,4 +1,6 @@
-# TailwindCSS Workshop
+<h1 align="center">Front-End Design with TailwindCSS</h1>
+
+<p align="center"><b>Created by <a href="https://github.com/ajaygandecha">Ajay Gandecha</a> for the UNC Computer Science Experience Lab (CSXL)</b></p>
 
 This workshop aims to introduce students to the TailwindCSS web framework. TailwindCSS is a utility CSS framework that allows developers to rapidly and efficiently design modern, rich, and responsive websites without ever having to enter an external CSS file. 
 
