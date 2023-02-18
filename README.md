@@ -84,7 +84,7 @@ If you have any questions regarding the contents of this workshop, feel free to 
 
 #### Final Notes and Attributions
 
-*This workshop was developed by Ajay Gandecha as part of COMP 495: Mentored Research at UNC-Chapel Hill with Professor Kris Jordan. This workshop aims to be part of a larger collection of learning experiences and workshops compiled by the UNC Computer Science Experience Lab (CSXL), which aspires to inform, teach, and potentially further enrich the UNC Computer Science undergraduate student community. We will use these learning experiences to research effective and engaging teaching strategies to each concepts in computer science.*
+*This workshop was developed by Ajay Gandecha as part of COMP 495: Mentored Research at UNC-Chapel Hill with Professor Kris Jordan. This workshop aims to be part of a larger collection of learning experiences and workshops compiled by the UNC Computer Science Experience Lab (CSXL), which aspires to inform, teach, and further enrich the UNC Computer Science undergraduate student community. We will use these learning experiences to research effective and engaging teaching strategies to each concepts in computer science.*
 
 *Feel free to fork this repository and experiment with the various files.*
 
