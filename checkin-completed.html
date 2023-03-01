@@ -19,10 +19,27 @@
           }
         }
     </style>
+    <script>
+        tailwind.config = {
+            theme: {
+            extend: {
+                colors: {
+                greybackground: '#f1f5f9',
+                greytext: "#4a4a4a",
+                darkbackground: "#1e293b",
+
+                xlpink: "#e661f7",
+                xlpurple: "#8218f5",
+                xlblue: "#2457f2"
+                }
+            }
+            }
+        }
+        </script>
 </head>
 
 
-<body class="bg-[#f1f5f9] text-[#4a4a4a] dark:bg-[#1e293b] dark:text-white">
+<body class="bg-greybackground text-greytext dark:bg-darkbackground dark:text-white">
     <div class="flex flex-col justify-center items-center w-full mt-8">
 
         <picture>
@@ -36,15 +53,15 @@
         </h1>
         
         <!-- Navigation Buttons -->
-        <a class="navigation-button bg-[#e661f7]">
+        <a class="navigation-button bg-xlpink">
             <strong>CHECK IN</strong>
         </a>
 
-        <a class="navigation-button bg-[#8218f5]">
+        <a class="navigation-button bg-xlpurple">
             <strong>REGISTER</strong>
         </a>
 
-        <a class="navigation-button bg-[#2457f2]">
+        <a class="navigation-button bg-xlblue">
             <strong>STATS</strong>
         </a>
     </div>
